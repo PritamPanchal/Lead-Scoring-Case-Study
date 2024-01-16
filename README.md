@@ -8,6 +8,6 @@ Lead Score Case Study.ipynb : The python jupyter notebook file
 
 Assignment Subjective Questions.pdf : Subjective questions answered
 
-Lead Score Case Study.pdf : Presentation
+Lead Score Case Study PPT.pdf : Presentation
 
-Summary.pdf : Executive Summary
+Summary.pdf : Summary
